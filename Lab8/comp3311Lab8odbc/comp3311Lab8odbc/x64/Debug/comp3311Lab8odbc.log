@@ -1,0 +1,9 @@
+﻿  comp3311Lab8odbc.cpp
+D:\COMP3311Lab\Lab8\comp3311Lab8odbc\comp3311Lab8odbc.cpp(32,5): error C2664: “SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)”: 无法将参数 6 从“SQLINTEGER *”转换为“SQLLEN *”
+      D:\COMP3311Lab\Lab8\comp3311Lab8odbc\comp3311Lab8odbc.cpp(32,50):
+      指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\sql.h(618,20):
+      参见“SQLBindCol”的声明
+      D:\COMP3311Lab\Lab8\comp3311Lab8odbc\comp3311Lab8odbc.cpp(32,5):
+      尝试匹配参数列表“(HSTMT, int, int, SQLCHAR [50], int, SQLINTEGER *)”时
+  

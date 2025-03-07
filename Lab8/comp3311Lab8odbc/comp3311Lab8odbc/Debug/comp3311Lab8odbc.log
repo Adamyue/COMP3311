@@ -1,0 +1,4 @@
+﻿  comp3311Lab8odbc.cpp
+D:\COMP3311Lab\Lab8\comp3311Lab8odbc\comp3311Lab8odbc.cpp(10,47): warning C4101: “len”: 未引用的局部变量
+D:\COMP3311Lab\Lab8\comp3311Lab8odbc\comp3311Lab8odbc.cpp(10,16): warning C4101: “sqlcode”: 未引用的局部变量
+  comp3311Lab8odbc.vcxproj -> D:\COMP3311Lab\Lab8\comp3311Lab8odbc\Debug\comp3311Lab8odbc.exe
